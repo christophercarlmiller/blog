@@ -1,0 +1,6 @@
+Flask>=3.0.0
+Flask-FlatPages>=0.8.1
+Frozen-Flask>=0.18
+Markdown>=3.5.0
+Pygments>=2.16.1
+PyYAML>=6.0.1
